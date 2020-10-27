@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1540749154 source:c:\users\alex\documents\ics4u comp sci\rpn calculator\main.cpp
+	<iostream>
+	"MyStack.h"
+	"Claculator.h"
+
+1540750182 c:\users\alex\documents\ics4u comp sci\rpn calculator\mystack.h
+	<apstring.h>
+	<apvector.h>
+
+1540750182 source:c:\users\alex\documents\ics4u comp sci\rpn calculator\mystack.cpp
+	"MyStack.h"
+
+1540749154 source:c:\users\alex\documents\ics4u comp sci\rpn calculator\calculator.cpp
+	"Claculator.h"
+
+1540749154 c:\users\alex\documents\ics4u comp sci\rpn calculator\claculator.h
+	"MyStack.h"
+
+1541128161 source:c:\users\alex\documents\github\coursework-anastasia-young\rpn calculator\calculator.cpp
+	"Claculator.h"
+
+1541128908 c:\users\alex\documents\github\coursework-anastasia-young\rpn calculator\claculator.h
+	"MyStack.h"
+
+1540950361 c:\users\alex\documents\github\coursework-anastasia-young\rpn calculator\mystack.h
+	<apstring.h>
+	<apvector.h>
+
+1541129053 source:c:\users\alex\documents\github\coursework-anastasia-young\rpn calculator\main.cpp
+	<iostream>
+	<sstream>
+	<apstring.h>
+	<cstring>
+	<apstring.cpp>
+	"MyStack.h"
+	"Claculator.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1541129105 source:c:\users\alex\documents\github\coursework-anastasia-young\rpn calculator\mystack.cpp
+	"MyStack.h"
+
